@@ -25,5 +25,18 @@ export const fatchDailyData = async () => {
       date: dailydata.reportDate,
     }));
     return modifiedData;
-  } catch (error) {}
+  } catch (error) {
+    console.log(error);
+  }
+};
+export const countries = async () => {
+  try {
+    const { data: countries } = await axios.get(`${url}/countries`);
+
+    // console.log(countries.countries.map((country) => country.name));
+
+    return countries.countries.map((country) => country.name);
+  } catch (error) {
+    console.log(error);
+  }
 };
