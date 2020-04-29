@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Covid-tracking-app/static/css/main.42e20f72.chunk.css",
-    "main.js": "/Covid-tracking-app/static/js/main.dbeedd36.chunk.js",
-    "main.js.map": "/Covid-tracking-app/static/js/main.dbeedd36.chunk.js.map",
+    "main.css": "/Covid-tracking-app/static/css/main.c7484824.chunk.css",
+    "main.js": "/Covid-tracking-app/static/js/main.020e295d.chunk.js",
+    "main.js.map": "/Covid-tracking-app/static/js/main.020e295d.chunk.js.map",
     "runtime-main.js": "/Covid-tracking-app/static/js/runtime-main.8d409094.js",
     "runtime-main.js.map": "/Covid-tracking-app/static/js/runtime-main.8d409094.js.map",
-    "static/js/2.4ea87189.chunk.js": "/Covid-tracking-app/static/js/2.4ea87189.chunk.js",
-    "static/js/2.4ea87189.chunk.js.map": "/Covid-tracking-app/static/js/2.4ea87189.chunk.js.map",
+    "static/js/2.edbcad74.chunk.js": "/Covid-tracking-app/static/js/2.edbcad74.chunk.js",
+    "static/js/2.edbcad74.chunk.js.map": "/Covid-tracking-app/static/js/2.edbcad74.chunk.js.map",
     "index.html": "/Covid-tracking-app/index.html",
-    "precache-manifest.7b7f3e604764354311696ead9d149a1c.js": "/Covid-tracking-app/precache-manifest.7b7f3e604764354311696ead9d149a1c.js",
+    "precache-manifest.ca13944af575e23d4ed200f3ec1a896a.js": "/Covid-tracking-app/precache-manifest.ca13944af575e23d4ed200f3ec1a896a.js",
     "service-worker.js": "/Covid-tracking-app/service-worker.js",
-    "static/css/main.42e20f72.chunk.css.map": "/Covid-tracking-app/static/css/main.42e20f72.chunk.css.map",
-    "static/js/2.4ea87189.chunk.js.LICENSE.txt": "/Covid-tracking-app/static/js/2.4ea87189.chunk.js.LICENSE.txt"
+    "static/css/main.c7484824.chunk.css.map": "/Covid-tracking-app/static/css/main.c7484824.chunk.css.map",
+    "static/js/2.edbcad74.chunk.js.LICENSE.txt": "/Covid-tracking-app/static/js/2.edbcad74.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Covid-tracking-app/static/media/image.d7265326.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8d409094.js",
-    "static/js/2.4ea87189.chunk.js",
-    "static/css/main.42e20f72.chunk.css",
-    "static/js/main.dbeedd36.chunk.js"
+    "static/js/2.edbcad74.chunk.js",
+    "static/css/main.c7484824.chunk.css",
+    "static/js/main.020e295d.chunk.js"
   ]
 }
