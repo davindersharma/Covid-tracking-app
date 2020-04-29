@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { fatchDailyData } from "../../api";
 import { Line } from "react-chartjs-2";
-// import styles from './Chart.module.css'
+import styles from './Chart.module.css'
 // import { red } from "@material-ui/core/colors";
 const Chart = () => {
   const [dailyData, setDailyData] = useState([]);
@@ -36,7 +36,7 @@ const Chart = () => {
       }}
     />
   ) : null;
-  return <div>{lineChart}</div>;
+  return <div className={styles.container}>{lineChart}</div>;
 };
 
 export default Chart;
